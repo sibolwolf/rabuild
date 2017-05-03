@@ -1,0 +1,8 @@
+submodule=src/smartconn.cc/liugen/audio,path=ssh://git.nane.cn:29418/project/ra/firmware/audiomanager
+submodule=src/smartconn.cc/liugen/led,path=ssh://git.nane.cn:29418/project/ra/firmware/led
+submodule=src/smartconn.cc/liugen/input,path=ssh://git.nane.cn:29418/project/ra/firmware/input
+submodule=src/smartconn.cc/tosone/parsing,path=ssh://git.nane.cn:29418/project/ra/firmware/parsing
+submodule=src/smartconn.cc/LuoYang/SearchEngine,path=ssh://git.nane.cn:29418/project/ra/firmware/searchengine
+submodule=src/smartconn.cc/LuoYang/PageFlip,path=ssh://git.nane.cn:29418/project/ra/firmware/pageflip
+submodule=src/smartconn.cc/tosone/ra_main,path=ssh://git.nane.cn:29418/project/ra/firmware/ra_main
+submodule=src/smartconn.cc/liugen/ado,path=ssh://git.nane.cn:29418/hardware/thunder/firmware/ado_go
